@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Taeyun(Ted) 
+- 🌱 I live in Changwon, Korea.
+- 👀 I am interested in high voltage and AI.
+- 🌱 My email is htyty12@keri.re.kr
